@@ -1,5 +1,4 @@
 # Text-Generation-using-LSTM
-Natural Language Processing Application
 ![Screenshot](TG.png)
 
 Description:
