@@ -1,5 +1,7 @@
 # Text-Generation-using-LSTM
 Natural Language Processing Application
+![Screenshot](TG.png)
+
 Description:
 - My first project in NLP domain
 - I implemented this with the help of explanations by Andrew Ng 
